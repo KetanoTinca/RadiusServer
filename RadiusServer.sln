@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiusServer", "RadiusServer\RadiusServer.csproj", "{AFBF4223-65FA-4127-8CE8-45E535FEC991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBF4223-65FA-4127-8CE8-45E535FEC991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBF4223-65FA-4127-8CE8-45E535FEC991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBF4223-65FA-4127-8CE8-45E535FEC991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBF4223-65FA-4127-8CE8-45E535FEC991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66FD261-EDDE-4FF6-B473-EC2F0692B0A3}
+	EndGlobalSection
+EndGlobal
